@@ -4,6 +4,7 @@ example
 To get this running with [fleet](https://github.com/substack/fleet) first do:
 
 ```
+$ npm install -g fleet
 $ npm install .
 $ git add node_modules
 $ git commit -m'check in node modules'
