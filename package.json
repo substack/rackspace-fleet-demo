@@ -1,0 +1,8 @@
+{
+    "name" : "rackspace-fleet-demo",
+    "version" : "0.0.0",
+    "dependencies" : {
+        "dnode" : "~0.9.6",
+        "upnode" : "~0.1.0"
+    }
+}
